@@ -1,0 +1,6 @@
+.with-image-grid {
+  height: 761px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}

@@ -1,0 +1,65 @@
+.top-menu-container {
+  display: flex;
+  align-items: center;
+  width: 1165px;
+  height: 56px;
+  margin-top: 23px;
+  border-radius: 12px;
+  background-color: rgba(255, 255, 255, 0.95);
+  box-shadow: 0px 12px 16px -4px rgba(12, 26, 36, 0.04);
+  backdrop-filter: blur(13.6px);
+}
+.menu-items1 {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 394px;
+  height: 21px;
+  margin-left: 24px;
+}
+.comparate-ui {
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 150%;
+  color: black;
+}
+.menu-btn-primary1 {
+}
+/* .................................. */
+.menu-items2 {
+  display: flex;
+  align-items: center;
+  width: 292px;
+  height: 36px;
+  margin-left: 431px;
+}
+.icon {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 36px;
+  height: 36px;
+  margin-right: 4px;
+}
+.menu-btn-primary {
+  display: flex;
+  align-items: center;
+  padding: 0px 8px;
+  gap: 8px;
+  border-radius: 4px;
+  flex-grow: 0;
+  background: rgba(255, 255, 255, 0.95);
+  border: 0px;
+}
+.menu-btn-primary-container {
+  display: flex;
+}
+.sing-up {
+  width: 66px;
+  height: 21px;
+  margin-right: 4px;
+}
+.sing-in {
+  width: 62px;
+  height: 21px;
+}
